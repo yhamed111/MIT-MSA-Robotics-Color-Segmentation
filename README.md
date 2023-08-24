@@ -17,7 +17,7 @@ Part 2:
 Once you have a working part 1, you can paste that code into color_segmentation_video.py to use color segmentation on your webcam! Run the code and a slider will pop up to adjust the HSV values of the color you want to target. A box will be drawn around the object in real-time!
 
 Submission:
-Complete the first portion of color segmentation with the lemon, and once you have a bounding box submit that to the #robotics-assignment channel (will announce when opened)
+Complete the first portion of color segmentation with the lemon, and once you have a bounding box submit that to the #robotics-assignments channel 
 
 Extra practice: Once both are working, create your own git repo and push your completed code to it. Post a screenshot into the assignment channel and you'll get a cool reaction emoji :D
 
