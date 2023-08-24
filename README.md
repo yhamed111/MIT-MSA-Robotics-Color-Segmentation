@@ -6,7 +6,8 @@ Instructions:
 - Press the green Code button at the top of the repo
 - Select HTTPS
 - Copy the link
-- Go to your terminal and clone the repo using: git clone <link>
+- Go to your terminal and clone the repo using: git clone (link)
+
 Note: do not place the brackets around the link
 
 Part 1 is straightforward. Go to color_segmentation_still.py. Most of the code is completed but you'll have the fill in the TODOs. A lot of the lines will be using functions similar to the ones we saw in lecture, so check out the cv2 documentation https://docs.opencv.org/4.x/ and search for any function. Alternatively, you could also google a lot of the functions, which we hope will get across the idea that in programming google is your best friend :)
